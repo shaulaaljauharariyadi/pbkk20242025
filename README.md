@@ -1,2 +1,2 @@
 # pbkk20242025
-![Gambar1](images/Screenshot2024-09-14123955.png)
+![Gambar1](images/screenshot1.png)
