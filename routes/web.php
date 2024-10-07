@@ -12,8 +12,9 @@ Route::get('/', function () {
 
 });
 
-Route::get('/{slug}', Function($slug) {
-    $post = Post::find($slug);
+
+Route::get('/{post}', Function(Post $post) {
+   
 }); 
 
 Route::get('/about', function(){
